@@ -68,7 +68,7 @@ I've personally found that Obsidian has allowed me for drive-by note taking whil
 
 
 # About me
-I am @readwithai, I make tools related to reading, research and agency sometimes using [Obsidian](https://readwithai.substack.com/p/what-exactly-is-obsidian).
+I am **@readwithai**, I make tools related to reading, research and agency sometimes using [Obsidian](https://readwithai.substack.com/p/what-exactly-is-obsidian).
 
 You can follow me on [X](https://x.com/readwithai) on my [blog](https://readwithai.substack.com).
 
