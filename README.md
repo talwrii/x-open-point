@@ -1,5 +1,5 @@
 # x-open-point
-@readwithai - [X](https://x.com/readwithai) - [blog](https://readwithai.substack.com) - [machine-aided reading](https://www.reddit.com/r/machineAidedReading/
+**@readwithai** - [X](https://x.com/readwithai) - [blog](https://readwithai.substack.com) - [machine-aided reading](https://www.reddit.com/r/machineAidedReading/)
 
 Open an application at a particular location and with a particular size when using X11.
 
@@ -71,3 +71,5 @@ I've personally found that Obsidian has allowed me for drive-by note taking whil
 I am @readwithai, I make tools related to reading, research and agency sometimes using [Obsidian](https://readwithai.substack.com/p/what-exactly-is-obsidian).
 
 You can follow me on [X](https://x.com/readwithai) on my [blog](https://readwithai.substack.com).
+
+![@readwithai logo](./logo.png)
