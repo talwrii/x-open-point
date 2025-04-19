@@ -13,10 +13,12 @@ PARSER.add_argument("command", nargs='*', help="Command to run. Use -- before op
 
 
 def main():
-
-    geometry = sys.argv[1] # work around to allow geometry to start with -
-    args = PARSER.parse_args(["placeholder"] + sys.argv[2:])
-    args.geometry = geometry
+    if len(sys.argv) >= 1:
+        geometry = sys.argv[1] # work around to allow geometry to start with -
+        args = PARSER.parse_args(["placeholder"] + sys.argv[2:])
+        args.geometry = geometry
+    else:
+        args = PARSER.parse_args()
 
     p = subprocess.Popen(args.command)
 
